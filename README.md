@@ -51,8 +51,5 @@ The dataset includes features such as:
 - Incorporating unsupervised learning for clustering students based on mental health.
 - Deploying the model as a web-based diagnostic tool.
 
-## License
-This project is licensed under the MIT License.
-
 ## Author
 [Harish Radhakrishnan](https://github.com/HarishRadhakrishnan23)
